@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\projects\c++\lab6\lab6\source.cpp(11): warning C4101: 'simbolis': unreferenced local variable
+  lab6.vcxproj -> D:\Projects\c++\lab6\Debug\lab6.exe
